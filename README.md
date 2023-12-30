@@ -70,7 +70,7 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
+
 ![image](https://github.com/subikshan2006/mobilerobot-openloopcontrol/assets/139841805/37b2e24a-0f28-463f-be3a-1738bc4cc9c5)
 
 
